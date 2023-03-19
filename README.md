@@ -1,6 +1,6 @@
 # 03-go-micro-oracle
 
-a microservice app made in golang that connects to an oracle database, using docker compose to connect the services.
+a microservice app made in golang that connects to an oracle database, using docker compose to manage the services.
 
 ## How to run
 from the project directory, run the folowing
